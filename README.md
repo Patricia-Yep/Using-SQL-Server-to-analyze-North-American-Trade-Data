@@ -14,7 +14,8 @@ I also changed the column names so they better reprsent what the contents of the
 
 <img width="478" height="76" alt="image" src="https://github.com/user-attachments/assets/1c07883b-1dec-416c-801a-84fcdc20264f" />
 
-##Analysis
+
+## Analysis
 These are some of the questions I was trying to answer with the trade data:
 
 What was the overall trade between the US and its neighbours?  Import represents what the US received from Canada and Mexico.  Export represents what the US sent to Canada and US.
