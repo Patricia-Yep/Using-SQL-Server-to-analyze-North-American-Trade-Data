@@ -9,6 +9,7 @@ The original data was North American trade data for the month of November 2024. 
 <img width="482" height="103" alt="image" src="https://github.com/user-attachments/assets/c8625c92-a340-48c4-8be1-77ec571e8e95" />
 
 
+
 I also changed the column names so they better reprsent what the contents of the column.
 
 <img width="478" height="76" alt="image" src="https://github.com/user-attachments/assets/1c07883b-1dec-416c-801a-84fcdc20264f" />
