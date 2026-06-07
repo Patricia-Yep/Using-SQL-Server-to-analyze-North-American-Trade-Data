@@ -6,6 +6,7 @@ Short SQL Server project:  I highlighted some data cleaning and provided analysi
 The original data was North American trade data for the month of November 2024.  The data was published from the Bureau of Transportation in the USA. Much of the original table used letters or numeric notations and you had to refer to a table to find what the abbreviations represented.  I used a template table to replace the abbreviations with the actual data so it would be easier to understand.  
 
 <img width="473" height="215" alt="image" src="https://github.com/user-attachments/assets/a7e06155-62f5-49a2-920e-a62f661ba90d" />
+
 <img width="482" height="103" alt="image" src="https://github.com/user-attachments/assets/c8625c92-a340-48c4-8be1-77ec571e8e95" />
 
 
