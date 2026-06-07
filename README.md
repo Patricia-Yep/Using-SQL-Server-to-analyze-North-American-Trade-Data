@@ -24,14 +24,20 @@ What was the overall trade between the US and its neighbours?  Import represents
 <img width="541" height="268" alt="image" src="https://github.com/user-attachments/assets/8cdc357b-de6e-4231-a5ad-8f8b659edbf8" />
 
 
+
 What Items has the greatest trade values?  This value included both imported and exported items.
 
 <img width="463" height="347" alt="image" src="https://github.com/user-attachments/assets/3c8c0bb4-e6c9-40bb-9a2e-4a3714074a1f" />
 
 
+
 What items gets traded with the US the most by value and which Province is it coming from?
 
+
 <img width="548" height="410" alt="image" src="https://github.com/user-attachments/assets/8d137f7b-c531-45bf-a1ea-6df593e694f2" />
+
+
+
 
 
 There are additional queries in the SQL file I added, like what the biggest import and export divided by province.  
