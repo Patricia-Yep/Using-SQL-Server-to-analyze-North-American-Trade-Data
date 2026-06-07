@@ -1,7 +1,7 @@
 # Using-SQL-Server-to-analyze-North-American-Trade-Data
 Short SQL Server project:  I highlighted some data cleaning and provided analysis of the data.
 
-##Cleaning
+## Cleaning
 
 The original data was trade data for November 2024.  Much of the original table used letters or numeric notations and you had to refer to a table to find what the abbreviations represented.  I used a template table to replace the abbreviations with the actual data so it would be easier to understand.  
 
